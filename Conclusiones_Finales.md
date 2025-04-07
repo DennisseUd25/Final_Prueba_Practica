@@ -30,3 +30,6 @@ Para el error presentado sobre el archvio .env se ha realizado lo siguiente:
 * El uso de devcontainer en GitHub Codespaces ofrece varias ventajas:
   * Aseguran que todos los miembros del equipo trabajen en un entorno idéntico, evitando problemas de "funciona en mi máquina" 
   * GitHub Codespaces despliega el contenedor preconfigurado en la nube sin ocupar recursos de nuestro equipo local.
+
+**Conclusión final**
+* Explorar herramientas como GitHub, Kaggle y GitHub Codespaces nos ayudó a entender mejor cómo facilitan el desarrollo y análisis de proyectos. GitHub destacó la importancia de organizar versiones y trabajar en equipo en ciberseguridad. Kaggle brindó un espacio práctico para tratar datos usando datasets públicos y lenguajes como Python y R. GitHub Codespaces, con devcontainer, mostró cómo trabajar en entornos uniformes en la nube simplifica la colaboración. Estas herramientas fortalecen nuestras habilidades y hacen que los proyectos sean más eficientes
